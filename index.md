@@ -1,1 +1,0 @@
-Welcome to my website. You can learn Calculus or some mathematics here. Please click on any link you like. 
