@@ -1,5 +1,6 @@
-### This is what the formula for combinations
+# Welcome to ameerfazal.com
 
-#### $\frac{n!}{k!(n-k)!}$
+## What exactly is calculus?
 
-This expression $\sum_{i=1}^n X_i$ is inlined.
+### A lot of people are scared of calculus. It is somewhat hard to learn. What exactly is this behemoth of mathematics that a lot of us have to learn at scool or college? What is the main idea? How to get a feel for this subject?  
+ 
